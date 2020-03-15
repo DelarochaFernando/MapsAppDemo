@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android Studio Projects-MapsAppDemo.iml" filepath="$PROJECT_DIR$/Android Studio Projects-MapsAppDemo.iml" group="MapsAppDemo" />
       <module fileurl="file://$PROJECT_DIR$/MapsAppDemo.iml" filepath="$PROJECT_DIR$/MapsAppDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/MapsAppDemo-app.iml" filepath="$PROJECT_DIR$/app/MapsAppDemo-app.iml" group="MapsAppDemo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
